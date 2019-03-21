@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "webpack": "webpack-dev-server",
-    "bsb": "bsb -make-world -w"
+    "bsb": "bsb -clean-world -make-world -w"
   },
   "devDependencies": {
     "bs-platform": "4.0.18",
